@@ -1,5 +1,3 @@
-item_name = 'widget'
-price = 23.5
-inventory = 100
-print(item_name, price, inventory)
-
+msg='Welcome to Python 101: Strings'
+print(msg)
+new='1 Welcome Ring To Tyler'
